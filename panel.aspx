@@ -2,7 +2,7 @@
    <div>
       <asp:Panel ID="pnldynamic" runat="server" BorderColor="#990000" 
          BorderStyle="Solid" Borderstyle="width:1px" Height="150px"  ScrollBars="Auto" style="width:60%" BackColor="#CCCCFF"  Font-Names="Courier" HorizontalAlign="Center">
-     
+      
          This panel shows dynamic control generation:
          <br />
          <br />
