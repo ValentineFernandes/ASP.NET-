@@ -3,7 +3,7 @@
    
       <table style="width: 559px">
          <tr>
-            <td style="width: 228px; height: 157px;">
+            <td style="width: 228px; height: 157px;"> 
                <asp:ListBox ID="ListBox1" runat="server" AutoPostBack="True" 
                   OnSelectedIndexChanged="ListBox1_SelectedIndexChanged">
                </asp:ListBox>
